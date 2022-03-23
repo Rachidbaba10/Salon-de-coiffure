@@ -234,7 +234,7 @@ display: block;
     text-align: center;
 }
 
-.header button{
+.header .parcourir{
     padding: 10px 5px;
     background-color: white;
     color: black;
